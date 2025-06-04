@@ -3,6 +3,8 @@
 ## Desde cero
 
 * [Introducción](README.md)
+* [Construye tu robot](desde-cero/construye-tu-robot/README.md)
+  * [Electrónica Básica](desde-cero/construye-tu-robot/electronica-basica.md)
 
 ## Hardware
 
