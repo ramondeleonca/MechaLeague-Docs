@@ -1,12 +1,11 @@
----
-description: Controladores de robot permitidos para MechaLeague
-icon: android
----
+# Introducción
 
-# Controlador de Robot
+¡Hola! Bienvenido a la documentación oficial del sistema de control de  MechaLeague y la suite de software MechaLib, en esta página estará documentado todo sobre el sistema de control de MechaLeague (Incluyendo electrónica, configuración, y software), además del uso de MechaLib y algunos componentes aprovados y/o fabricados por/para MechaLeague.
 
-## ESP32
+## ¿Quieres aprender programación?
 
-<div align="left"><figure><img src=".gitbook/assets/61o2ZUzB4XL._AC_UF894,1000_QL80_DpWeblab_.jpg" alt="Microcontrolador ESP32" width="188"><figcaption></figcaption></figure></div>
+Esta página cubre temas específicos sobre el software y hardware utilizado en MechaLeague, no cubrirá temas básicos de programación en ningun lenguaje, solo su implementación.
 
-El ESP32 es el único controlador de robot permitido.
+## Desde Cero
+
+Las páginas restantes de este tutorial están diseñadas para que las completes y puedas empezar desde cero con un robot básico en funcionamiento. Los documentos te guiarán en hardware, el cableado de tu robot, la instalación del software necesario, la configuración y la carga de un programa básico de ejemplo que debería permitir su funcionamiento.

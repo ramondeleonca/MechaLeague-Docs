@@ -1,10 +1,10 @@
 # Table of contents
 
+## Desde cero
+
+* [Introducción](README.md)
+
 ## Hardware
 
-* [Controlador de Robot](README.md)
+* [Controlador de Robot](<README (1).md>)
 * [Controladores de Motor](hardware/controladores-de-motor.md)
-
-## MechaLib
-
-* [Page 1](mechalib/page-1.md)
